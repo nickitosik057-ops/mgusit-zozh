@@ -9,15 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@vercel/speed-insights": "^2.0.0",
     "@vitejs/plugin-react": "latest",
+    "vite": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "vite": "latest"
+    "react-dom": "latest"
   },
   "devDependencies": {
-    "autoprefixer": "latest",
+    "tailwindcss": "^3.4.17",
     "postcss": "latest",
-    "tailwindcss": "^3.4.17"
+    "autoprefixer": "latest"
   }
 }
